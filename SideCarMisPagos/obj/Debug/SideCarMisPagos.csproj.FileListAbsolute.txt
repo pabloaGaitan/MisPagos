@@ -1,1 +1,10 @@
 c:\users\asus\documents\visual studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\SideCarMisPagos.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\obj\Debug\SideCarMisPagos.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\SideCarMisPagos.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\SideCarMisPagos.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\obj\Debug\SideCarMisPagos.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\MisPagos\SideCarMisPagos\obj\Debug\SideCarMisPagos.pdb
